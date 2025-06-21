@@ -3,7 +3,7 @@ import os
 from PySide2 import QtWidgets, QtGui, QtCore
 from PySide2.QtCore import Qt
 
-PROJECT_PATH = '/home/s5636764/Downloads'
+PROJECT_PATH = '/home/Downloads'
 
 class PoseManagerDialogUI(QtWidgets.QDialog):
     def __init__(self, parent=None):
